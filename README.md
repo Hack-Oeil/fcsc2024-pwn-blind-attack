@@ -25,12 +25,12 @@ Shovel : http://localhost:8000/
 > http://localhost
 
 #### tentez 
-> nc blind-attack.cyrhades.fr:4000
+> nc blind-attack.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------

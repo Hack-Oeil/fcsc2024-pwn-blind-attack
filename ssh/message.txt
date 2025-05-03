@@ -11,6 +11,6 @@ Bienvenue sur le serveur SSH de Cyrhades
 
 Utilisez netcat pour accéder au challenge sur le serveur blind-attack.cyrhades.fr!
 
-*****:~$ nc blind-attack.cyrhades.fr:4000
+*****:~$ nc blind-attack.cyrhades.fr 4000
 
 Bonne chance !
